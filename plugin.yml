@@ -1,0 +1,9 @@
+name: AnotherVaults
+main: xoapp\anothervaults\Vaults
+api: 5.0.0
+version: 1.0.0
+author: Xoapp
+
+permissions:
+  anothervaults.command:
+    default: true

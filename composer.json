@@ -1,0 +1,19 @@
+{
+  "name": "xoapp/anothervaults",
+  "description": "Vaults For PocketMine",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "xoapp",
+      "email": "xoapp@hornymilf.com"
+    }
+  ],
+  "require": {
+    "pocketmine/pocketmine-mp": "^5.21.1",
+    "muqsit/invmenu": "dev-pm5",
+    "paroxity/commando": "dev-master",
+    "dktapps/pmforms": "dev-master",
+    "ext-zlib": "*"
+  }
+}
